@@ -1,0 +1,22 @@
+{
+  "name": "cli1",
+  "version": "1.0.0",
+  "description": "111",
+  "main": "cli1",
+  "scripts": {
+    "test": "cli1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haiGG/cli-test1.git"
+  },
+  "keywords": [
+    "111"
+  ],
+  "author": "wyh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haiGG/cli-test1/issues"
+  },
+  "homepage": "https://github.com/haiGG/cli-test1#readme"
+}
